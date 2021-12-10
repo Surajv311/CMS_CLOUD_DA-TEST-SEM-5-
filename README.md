@@ -1,7 +1,14 @@
 # CMS_CLOUD_DA-TEST-SEM-5
 
-Cube of number get/post request app. (For CMS Lab VIT)
 
+## [Note: For LABFAT FILES, visit here:](https://github.com/Surajv311/CMS_CLOUD_DA-TEST-SEM-5-/tree/main/labFat)
+
+
+---------------------------------------------------------------------------------
+
+### (This part is for lab midterm exam) 
+
+Cube of number get/post request app. (For CMS Lab VIT)
 <br>
 
 Steps followed <br>
